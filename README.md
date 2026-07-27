@@ -176,7 +176,7 @@ HR-Analytics-Project-Excel
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/santhoshselvaraj1212/
 - GitHub: https://github.com/Santhosh-BA
 
 ---
